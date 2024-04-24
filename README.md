@@ -1,5 +1,8 @@
 # Appointments bases Laravel and Vue 3 Application
 
+## Overview
+Admin can add masters like category, sub category,  common settings for listings and date formats, here we have list of all registered  users and appointments, user will be able to login and check there related appointments. server side coding using laravel and mysql. resources/js directory contains front end code which is developed using VueJS
+
 ## Installation
 
 - Clone the repository
